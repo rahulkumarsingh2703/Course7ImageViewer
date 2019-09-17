@@ -31,7 +31,7 @@ const styles = {
   },
   media: {
     height: '200px',
-    paddingTop: '56.25%', // 16:9
+    paddingTop: '56.25%',
   },
   imageModal: {
     backgroundColor: "#fff",
